@@ -40,8 +40,8 @@ ScreenBot, est un robot visant à être au moins à 90% en français, et écrit 
 ## Commandes à Faire
 
 ### Music
-[checkbox:checked] **m!play :** Permet de jouerune musique.
-[checkbox:unchecked] **m!stop :** Permet de stopper une musique en cours de lecture.
+[-] **m!play :** Permet de jouerune musique.
+[] **m!stop :** Permet de stopper une musique en cours de lecture.
 * **m!queue :** Permet de mettre une musique dans la playlist.
 * **m!playlist :** Permet de voir la playlist en cours de lecture.
 * **m!clear :** Permet d'effacer la playlist.
