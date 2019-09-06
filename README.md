@@ -32,7 +32,7 @@
 - [x] **!kick :** Permet de kické un utilisateur.
 - [ ] **!ban :** Permet de ban un utilisateur.
 - [ ] **!mute :** Permet de muté un utilisateur.
-- [ ] **!purge :** Permet de nettoyer une channel de X messages.
+- [ ] **!clear :** Permet de nettoyer une channel de X messages.
 
 ## Owners
 - [x] **!eval :** Permet d'évaluer une commande.
