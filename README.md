@@ -13,15 +13,15 @@ ScreenBot, est un robot visant à être au moins à 90% en français, et écrit 
 </p>
 
 ### Comandes Terminés
- - </> Ping
- - </> Hello
- - </> Espace
- - </> Repeat
- - </> Updates
- - </> Kick
+* !Ping
+* !Hello
+* !Espace
+* !Repeat
+* !Updates
+* !Kick
 
 ### Commandes à corriger
- - </> Purge ... (bloque avec fetchMessages)
+ - !Purge ... (bloque avec fetchMessages)
 
 ### Commandes à Faire
- - Toutes les </> Musics plus ajouts des librairies youtube ou autres... 
+ - Toutes les </> Musics plus ajouts des librairies youtube ou autres...
