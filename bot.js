@@ -1,8 +1,21 @@
+// Utilisation du mode strict
+'use strict';
+
+// Importation des modules nécessaires 
 const { AkairoClient, CommandHandler, InhibitorHandler, ListenerHandler } = require('discord-akairo');
 const config = require("./config.js");
 
+// Création d'une class MyClient
+/**
+ * Framework Discord.js
+ * @extends {AkairoClient}
+ */
 class MyClient extends AkairoClient {
     constructor() {
+	/**
+	* @typeof {Object} [Akairo options]
+	* @typeof {Object} [Discord.js options]
+	*/
         super({
             ownerID: '91279640252907520', // or ['91279640252907520', '363603951163015168']
         }, {
