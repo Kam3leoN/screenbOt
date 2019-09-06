@@ -19,7 +19,7 @@ ScreenBot, est un robot visant à être au moins à 90% en français, et écrit 
 - [x] Terminés
 
 ### Client/Bot
-- [x] **help :** Affiche la liste des commandes
+- [ ] **help :** Affiche la liste des commandes
 - [x] **about :** sends an embed with information about Runa
 - [x] **!ping :** Renvoi le ping du client/messages.
 - [x] **!hello :** Permet de répondre un bonjour adapté.
