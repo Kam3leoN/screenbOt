@@ -1,0 +1,39 @@
+{
+	"name": "screenbot",
+	"version": "1.0.0",
+	"description": "Bot discord",
+	"main": "bot.js",
+	"dependencies": {
+		"canvas": "^2.6.0",
+		"canvas-constructor": "^3.1.0",
+		"chalk": "^2.4.2",
+		"discord-akairo": "^8.0.0-beta.8",
+		"discord.js": "^12.0.0-dev",
+		"hastebin-gen": "^2.0.5",
+		"moment": "^2.24.0",
+		"moment-duration-format": "^2.3.2",
+		"ms": "^2.1.2",
+		"node-emoji": "^1.10.0",
+		"node-fetch": "^2.6.0",
+		"npm": "^6.11.3",
+		"os": "^0.1.1",
+		"sequelize": "^5.18.0",
+		"sqlite": "^3.0.3",
+		"url": "^0.11.0"
+	},
+	"devDependencies": {},
+	"scripts": {},
+	"keywords": [
+		"screenzone",
+		"screenbot",
+		"discord",
+		"discord.js",
+		"framework",
+		"discord-akairo",
+		"akairo",
+		"bot",
+		"client"
+	],
+	"author": "Kam3leoN",
+	"license": "MIT"
+}
