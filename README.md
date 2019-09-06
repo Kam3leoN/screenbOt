@@ -44,7 +44,7 @@ ScreenBot, est un robot visant à être au moins à 90% en français, et écrit 
 - [ ] **!mother :** Balance une vanne sur ta mère (cf: ta mère est tellement...).
 
 ### Music
-(Prefix de commandes spécifiques [ m! ])
+/!\ Prefix de commandes spécifique [ m! ]
 - [ ] **m!play :** Permet de jouerune musique.
 - [ ] **m!stop :** Permet de stopper une musique en cours de lecture.
 - [ ] **m!queue :** Permet de mettre une musique dans la playlist.
