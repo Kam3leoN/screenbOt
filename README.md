@@ -1,8 +1,8 @@
-<h1 align=center>SCREENBOT</h1>
-<p align=left>
-ScreenBot, est un robot visant à être au moins à 90% en français, et écrit avec Akairo pour Discord.js.</br>
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="ScreenBot" src="https://cdn.discordapp.com/attachments/611997398410985492/612053510770655233/screenbot.png">
+
+# ScreenBot
+> ScreenBot, est un robot visant à être au moins à 90% en français, et écrit avec Akairo pour Discord.js.
 (Utilisation privée pour un serveur pour le moment).
-</p>
 
 ## Auteur
 <p align=center>
