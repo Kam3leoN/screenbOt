@@ -20,7 +20,7 @@ ScreenBot, est un robot visant à être au moins à 90% en français, et écrit 
 - [ ] À faire
 - [x] Terminés
 
-### Client/Bot
+## Client/Bot
 - [ ] **!help :** Affiche la liste des commandes
 - [x] **!about :** sends an embed with information about Runa
 - [x] **!ping :** Renvoi le ping du client/messages.
@@ -28,22 +28,22 @@ ScreenBot, est un robot visant à être au moins à 90% en français, et écrit 
 - [x] **!repeat :** Permet de dire une phrase par le biais du bot
 - [x] **!updates :** Pemret d'afficher une mise à jour prédéfini.
 
-### Modération
+## Modération
 - [x] **!kick :** Permet de kické un utilisateur.
 - [ ] **!ban :** Permet de ban un utilisateur.
 - [ ] **!mute :** Permet de muté un utilisateur.
 - [ ] **!purge :** Permet de nettoyer une channel de X messages.
 
-### Owners
+## Owners
 - [x] **!eval :** Permet d'évaluer une commande.
 - [x] **!espace :** Permet de virer les espaces d'un channel. (à saisir dans le channel souhaité)
 
-### Fun
+## Fun
 - [ ] **!chuck :** Balance une punchline à la sauce Chuck Norris.
 - [ ] **!yoda :** Balance une punchline du maître Jedi Yoda (star wars).
 - [ ] **!mother :** Balance une vanne sur ta mère (cf: ta mère est tellement...).
 
-### Music
+## Music
 /!\ Prefix de commandes spécifique [ m! ]
 - [ ] **m!play :** Permet de jouerune musique.
 - [ ] **m!stop :** Permet de stopper une musique en cours de lecture.
@@ -54,7 +54,7 @@ ScreenBot, est un robot visant à être au moins à 90% en français, et écrit 
 - [ ] **m!info :** Permet d'avoir les infos sur la musique en cours. [nom,fanart,link youtube]
 - [ ] **m!lyrics :** Permet d'avoir les paroles d'une chanson dans un embed.
 
-### Jeux
+## Jeux
 - [ ] **!421 :** Permet de jouer une partie de 421
 - [ ] **!dice :** Permet de jouer aux dés (l'utilisateur avec le résultat le plus haut gagne).
 - [ ] **!Puissance4 :** Permet de jouer une partie de puissance 4 | connect4.
