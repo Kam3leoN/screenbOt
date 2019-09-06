@@ -59,3 +59,11 @@ ScreenBot, est un robot visant à être au moins à 90% en français, et écrit 
 - [ ] **!dice :** Permet de jouer aux dés (l'utilisateur avec le résultat le plus haut gagne).
 - [ ] **!Puissance4 :** Permet de jouer une partie de puissance 4 | connect4.
 - [ ] **!morpion :** Permet de jouer une partie de morpion | Tic Tac Toe.
+
+## Credits
+
+<img src="https://cdn.discordapp.com/attachments/611997398410985492/612053510770655233/screenbot.png" width="100" height="100" align="left" style="float: left; margin: 0 10px 0 0;" alt="ScreenBot" >
+
+**ScreenBot**.  
+Authored and maintained by Kam3leoN & Shaynlink.
+> GitHub [@ScreenBot](https://github.com/Kam3leoN/ScreenBot/)
