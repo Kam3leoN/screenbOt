@@ -21,8 +21,8 @@ ScreenBot, est un robot visant à être au moins à 90% en français, et écrit 
 - [x] Terminés
 
 ### Client/Bot
-- [ ] **help :** Affiche la liste des commandes
-- [x] **about :** sends an embed with information about Runa
+- [ ] **!help :** Affiche la liste des commandes
+- [x] **!about :** sends an embed with information about Runa
 - [x] **!ping :** Renvoi le ping du client/messages.
 - [x] **!hello :** Permet de répondre un bonjour adapté.
 - [x] **!repeat :** Permet de dire une phrase par le biais du bot
@@ -30,11 +30,18 @@ ScreenBot, est un robot visant à être au moins à 90% en français, et écrit 
 
 ### Modération
 - [x] **!kick :** Permet de kické un utilisateur.
-- [ ] **m!purge :** Permet de nettoyer une channel de X messages.
+- [ ] **!ban :** Permet de ban un utilisateur.
+- [ ] **!mute :** Permet de muté un utilisateur.
+- [ ] **!purge :** Permet de nettoyer une channel de X messages.
 
 ### Owners
 - [x] **!eval :** Permet d'évaluer une commande.
 - [x] **!espace :** Permet de virer les espaces d'un channel. (à saisir dans le channel souhaité)
+
+### Fun
+- [ ] **!chuck :** Balance une punchline à la sauce Chuck Norris.
+- [ ] **!yoda :** Balance une punchline du maître Jedi Yoda (star wars).
+- [ ] **!mother :** Balance une vanne sur ta mère (cf: ta mère est tellement...).
 
 ### Music
 - [ ] **m!play :** Permet de jouerune musique.
