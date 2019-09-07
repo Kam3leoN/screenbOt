@@ -60,6 +60,7 @@
 - [ ] **!Puissance4 :** Permet de jouer une partie de puissance 4 | connect4.
 - [ ] **!morpion :** Permet de jouer une partie de morpion | Tic Tac Toe.
 
+## LICENSE SCAN
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKam3leoN%2FScreenBot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKam3leoN%2FScreenBot?ref=badge_large)
 
 ## Credits
