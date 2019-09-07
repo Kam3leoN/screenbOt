@@ -22,7 +22,7 @@
 
 ## Client/Bot
 - [ ] **!help :** Affiche la liste des commandes
-- [x] **!about :** sends an embed with information about Runa
+- [x] **!about :** Renvoi le à propos de ScreenBot
 - [x] **!ping :** Renvoi le ping du client/messages.
 - [x] **!hello :** Permet de répondre un bonjour adapté.
 - [x] **!repeat :** Permet de dire une phrase par le biais du bot
