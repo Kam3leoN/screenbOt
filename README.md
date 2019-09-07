@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="ScreenBot" src="https://cdn.discordapp.com/attachments/611997398410985492/619904440513593344/ScreenBot.png">
+<img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="ScreenBot" src="https://cdn.discordapp.com/attachments/611997398410985492/619904440513593344/ScreenBot.png">
 
 # ScreenBot
 > ScreenBot, est un robot visant à être au moins à 90% en français, et écrit avec Akairo pour Discord.js.
@@ -64,7 +64,7 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKam3leoN%2FScreenBot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKam3leoN%2FScreenBot?ref=badge_large)
 
 ## Credits
-<img src="https://cdn.discordapp.com/attachments/611997398410985492/619904440513593344/ScreenBot.png" width="100" height="100" align="left" style="float: left; margin: 0 10px 0 0;" alt="ScreenBot" >
+<img src="https://cdn.discordapp.com/attachments/611997398410985492/619904440513593344/ScreenBot.png" width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="ScreenBot" >
 
 **ScreenBot**.  
 Développé et maintenu par : Kam3leoN & Shaynlink.
