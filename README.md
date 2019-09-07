@@ -60,9 +60,7 @@
 - [ ] **!Puissance4 :** Permet de jouer une partie de puissance 4 | connect4.
 - [ ] **!morpion :** Permet de jouer une partie de morpion | Tic Tac Toe.
 
-<p align=center>
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKam3leoN%2FScreenBot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKam3leoN%2FScreenBot?ref=badge_large)
-</p>
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKam3leoN%2FScreenBot.svg?type=large?align=center)](https://app.fossa.com/projects/git%2Bgithub.com%2FKam3leoN%2FScreenBot?ref=badge_large)
 
 ## Credits
 <img src="https://cdn.discordapp.com/attachments/611997398410985492/612053510770655233/screenbot.png" width="100" height="100" align="left" style="float: left; margin: 0 10px 0 0;" alt="ScreenBot" >
