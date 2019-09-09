@@ -14,8 +14,6 @@
 ## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> Codé avec
 <p align=center>
 <img src="https://cdn.discordapp.com/attachments/611997398410985492/619522922477781003/javascript.png"> <img src="https://media.discordapp.net/attachments/611997398410985492/619522924277399572/nodejs.png"> <img src="https://cdn.discordapp.com/attachments/611997398410985492/619522925623640090/discordjs.png"> <img src="https://cdn.discordapp.com/attachments/611997398410985492/619522929776001025/akairo.png"> <img src="https://cdn.discordapp.com/attachments/611997398410985492/619522932678328320/version.png">
-</br>
-<img src="https://img.shields.io/badge/license-MIT-green"> <img src="https://img.shields.io/badge/build-passing-brightgreen">
 </p>
 
 ## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> Listes des Comandes
