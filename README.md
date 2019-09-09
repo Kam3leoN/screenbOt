@@ -71,3 +71,4 @@
 **ScreenBot**.  
 Développé et maintenu par : Kam3leoN & Shaynlink.
 > GitHub [@ScreenBot](https://github.com/Kam3leoN/ScreenBot/)
+<kbd>↑</kbd> <kbd>↑</kbd> <kbd>↓</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>A</kbd> <kbd>B</kbd> <kbd>START</kbd>
