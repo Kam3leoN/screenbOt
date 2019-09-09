@@ -69,4 +69,4 @@
 **ScreenBot**.  
 Développé et maintenu par : Kam3leoN & Shaynlink.
 > GitHub [@ScreenBot](https://github.com/Kam3leoN/ScreenBot/)</br>
-<kbd>↑</kbd> <kbd>↑</kbd> <kbd>↓</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>A</kbd> <kbd>B</kbd> <kbd>START</kbd>
+<kbd><img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"></kbd> <kbd>↑</kbd> <kbd>↓</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>←</kbd> <kbd>→</kbd> <kbd>A</kbd> <kbd>B</kbd> <kbd>START</kbd>
