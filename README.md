@@ -70,17 +70,4 @@
 Développé et maintenu par : Kam3leoN & Shaynlink.
 > GitHub [@ScreenBot](https://github.com/Kam3leoN/ScreenBot/)</br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <kbd><img src="https://cdn.discordapp.com/attachments/611997398410985492/620597282869608470/u.png" width="34"></kbd> <kbd><img src="https://cdn.discordapp.com/attachments/611997398410985492/620597282869608470/u.png" width="34"></kbd> <kbd><img src="https://cdn.discordapp.com/attachments/611997398410985492/620597272823988244/d.png" width="34"></kbd> <kbd><img src="https://cdn.discordapp.com/attachments/611997398410985492/620597272823988244/d.png" width="34"></kbd> <kbd><img src="https://cdn.discordapp.com/attachments/611997398410985492/620597275810594842/l.png" width="34"></kbd> <kbd><img src="https://cdn.discordapp.com/attachments/611997398410985492/620597278604001295/r.png" width="34"></kbd> <kbd><img src="https://cdn.discordapp.com/attachments/611997398410985492/620597275810594842/l.png" width="34"></kbd> <kbd><img src="https://cdn.discordapp.com/attachments/611997398410985492/620597278604001295/r.png" width="34"></kbd> <kbd><img src="https://cdn.discordapp.com/attachments/611997398410985492/620597285205573632/a.png" width="34"></kbd> <kbd><img src="https://cdn.discordapp.com/attachments/611997398410985492/620597287466303518/b.png" width="34"></kbd> <kbd><img src="https://cdn.discordapp.com/attachments/611997398410985492/620597280579256322/s.png" width="34"></kbd>
