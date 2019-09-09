@@ -16,7 +16,7 @@
 <img src="https://cdn.discordapp.com/attachments/611997398410985492/619522922477781003/javascript.png"> <img src="https://media.discordapp.net/attachments/611997398410985492/619522924277399572/nodejs.png"> <img src="https://cdn.discordapp.com/attachments/611997398410985492/619522925623640090/discordjs.png"> <img src="https://cdn.discordapp.com/attachments/611997398410985492/619522929776001025/akairo.png"> <img src="https://cdn.discordapp.com/attachments/611997398410985492/619522932678328320/version.png">
 </p>
 
-## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> Listes des Comandes
+## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> TODO : Listes des Comandes
 - [ ] À faire
 - [x] Terminés
 
