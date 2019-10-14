@@ -17,7 +17,7 @@ class MyClient extends AkairoClient {
 	* @typeof {Object} [Discord.js options]
 	*/
         super({
-            ownerID: '91279640252907520', // or ['91279640252907520', '363603951163015168']
+            ownerID: config.ownerID, //'91279640252907520' or ['91279640252907520', '363603951163015168']
         }, {
             disableEveryone: true
         });
@@ -26,7 +26,7 @@ class MyClient extends AkairoClient {
         this.commandHandler = new CommandHandler(this, {
 		    directory: './src/commands/',
 		    //automateCategories: true,
-		    prefix: '!',
+		    prefix: config.prefix, // or '!'
 		    defaultCooldown: 1000,
 		    ignoreCooldown: [],
 		    allowMention: true,
