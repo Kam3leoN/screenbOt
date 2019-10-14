@@ -1,7 +1,7 @@
 {
 	"name": "screenbot",
 	"version": "1.0.0",
-	"description": "Bot discord",
+	"description": "ScreenBot, est un robot visant à être au moins à 90% en français, et écrit avec Akairo pour Discord.js. (Utilisation privée pour un serveur pour le moment).",
 	"main": "bot.js",
 	"dependencies": {
 		"canvas": "^2.6.0",
@@ -24,6 +24,10 @@
 	"devDependencies": {},
 	"scripts": {
 		"start": "node bot.js"
+	},
+	"engines": {
+		"discord.js": "^12.0.0-dev",
+		"node": "<=10.0.0"
 	},
 	"keywords": [
 		"screenzone",
