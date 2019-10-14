@@ -19,7 +19,10 @@ class KickCommand extends Command {
     async exec(message, args) {
         message.delete();
         if (!args.member) return message.reply("Aucun membre n'a été trouvé !");
-        await args.member.kick();
+        await args.member.kick().catch(onrejected => {
+            require('./../../utils/error')(onrejected, message, client);
+            return message.channel.send(`Une erreur est survenue`);
+        })
         return message.channel.send(`${args.member} a été kick !`);
     }
 }

@@ -67,3 +67,5 @@ class MyClient extends AkairoClient {
 
 const client = new MyClient();
 client.login(config.token);
+
+require('./src/utils/error')('Test d\'une erreur', false, false);
