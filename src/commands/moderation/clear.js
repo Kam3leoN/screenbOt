@@ -3,7 +3,7 @@ const { Command } = require('discord-akairo');
 class ClearCommand extends Command {
     constructor() {
         super('clear', {
-           aliases: ['purge'],
+           aliases: ['purge', 'clear'],
            args: [
             {
               id: 'bulkDelete',
@@ -17,10 +17,10 @@ class ClearCommand extends Command {
     }
 
     async exec(message, args) {
-        message.delete();
+        await message.delete();
         if (!args.bulkDelete || args.bulkDelete > 100 || args.bulkDelete < 1) return message.reply("Vous devez choisire une nombre entre 1 et 100 !");
         await message.channel.bulkDelete(args.bulkDelete).then(onfulfilled => {
-            return message.channel.send(`${onfulfilled.size} à etait supprimé`);
+            return message.channel.send(`${onfulfilled.size} message(s) à etait supprimé`);
         }).catch(onrejected => {
             require('./../../utils/error')(onrejected, message, client);
             return message.channel.send(`Une erreur est survenue`);
@@ -32,4 +32,4 @@ class ClearCommand extends Command {
     }
 }
 
-module.exports = BanCommand;
+module.exports = ClearCommand;
