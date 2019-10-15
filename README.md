@@ -30,9 +30,9 @@
 
 ## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> Modération
 - [x] **!kick :** Permet de kické un utilisateur.
-- [ ] **!ban :** Permet de ban un utilisateur.
+- [x] **!ban :** Permet de ban un utilisateur.
 - [ ] **!mute :** Permet de muté un utilisateur.
-- [ ] **!clear :** Permet de nettoyer une channel de X messages.
+- [x] **!clear :** Permet de nettoyer une channel de X messages.
 
 ## <img src="https://cdn.discordapp.com/attachments/611997398410985492/620514068637286400/code.png" width="25"> Owners
 - [x] **!eval :** Permet d'évaluer une commande.
