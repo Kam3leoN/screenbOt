@@ -1,5 +1,8 @@
 module.exports = {
-    token: 'TOKEN',
+    key: {
+        YouTube: 'key',
+        Discord: 'token',
+    },
     ownerID: [],
     prefix: 'your prefix',
 };

@@ -9,17 +9,22 @@
 		"chalk": "^2.4.2",
 		"discord-akairo": "^8.0.0-beta.8",
 		"discord.js": "^12.0.0-dev",
+		"ffmpeg": "0.0.4",
+		"ffmpeg-binaries": "^4.0.0",
+		"ffmpeg-static": "^2.7.0",
 		"hastebin-gen": "^2.0.5",
 		"moment": "^2.24.0",
 		"moment-duration-format": "^2.3.2",
 		"ms": "^2.1.2",
 		"node-emoji": "^1.10.0",
 		"node-fetch": "^2.6.0",
+		"node-opus": "^0.3.3",
 		"npm": "^6.11.3",
 		"os": "^0.1.1",
 		"sequelize": "^5.18.0",
 		"sqlite": "^3.0.3",
-		"url": "^0.11.0"
+		"url": "^0.11.0",
+		"ytdl-core": "^1.0.0"
 	},
 	"devDependencies": {},
 	"scripts": {

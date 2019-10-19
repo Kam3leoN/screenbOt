@@ -60,12 +60,14 @@ class MyClient extends AkairoClient {
 		this.commandHandler.loadAll();
 		this.inhibitorHandler.loadAll();
 		this.listenerHandler.loadAll();
-
+		this.connection;
+		this.dispatcher;
+		this.queue = {};
+		this.volume = 0.25;
+		this.GeneralVoice = {};
 
     }
 }
 
 const client = new MyClient();
-client.login(config.token);
-
-require('./src/utils/error')('Test d\'une erreur', false, false);
+client.login(config.key.Discord);
