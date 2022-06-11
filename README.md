@@ -79,21 +79,16 @@ Développé et maintenu par : Kam3leoN & Shaynlink.
    3. <a href="#configure">How to Configure Project?</a><br>
    4. <a href="#library">Which all Libraries used?</a><br></h4>
 
-
-<br><br>
-
 <h1 id="work">How does this work?</h1>
+
 <p>....</p>
 
 * <a href="https://www.loom.com/share/c4e2333b55894b43b9d6ce194d77de1e">Click here to know how the bot works (Video)</a>
 
-<br><br>
-
 <h1 id="use">How to Use the Bot?</h1>
+
 1. <a href="https://discord.com/oauth2/authorize?client_id=844918394888388629&permissions=68608&scope=bot">Click here</a> to add the bot to your server or you can <a href="https://discord.gg/DUPNJp7vYB/">click here</a> to join our VacBot server<br>
 2. Type <code>$vacbot</code> in text channels <code>unregister</code>
-
-<br><br>
 
 <h1 id="configure">How to Configure Project?</h1>
 
