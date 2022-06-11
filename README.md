@@ -127,7 +127,7 @@ Développé et maintenu par : Kam3leoN & Shaynlink.
 
 1. Clone Project
 ```
-git clone https://github.com/aquibe/VacBot
+git clone https://github.com/Kam3leoN/screenbOt
 ```
 2. Change directory to VacBot
 ```
@@ -139,17 +139,16 @@ npm install
 ```
 4. Create file <code>.env</code> and add the line
 ```
-BOT_TOKEN=enter_your_bot_token
-MONGO_DBNAME=enter_mongoDB_name
-MONGO_USERNAME=enter_your_mongoDB_Username
-MONGO_PASSWORD=enter_your_bot_mongoDB_Password
-MONGO_CLUSTER=enter_your_mongoDB_Cluster
+TOKEN = enter_your_bot_token
+DB_HOST = enter_mongoDB_name
+DB_NAME = enter_your_mongoDB_Username
+DB_USER = enter_your_bot_mongoDB_Password
+DB_PASS = enter_your_mongoDB_Cluster
 ```
 5. Run project
 ```
 npm start
 ```
-
 
 <br><br>
 
@@ -157,45 +156,28 @@ npm start
 
 1. Discord.js : To make our NodeJS Bot for Discord<br>
 2. dotenv : To set environmental Variable<br>
-3. https : To send API requests<br>
-4. MongoDB : Used as Database<br>
-5. scheduler : To schedule daily updates
 
 <br><br>
 
-<h1 id="team">Team VacBot</h1>
+<h1 id="team">Team screenbOt</h1>
 
 <table align="center">
 
 <tr>
     <th>No.</th>
-    <th>Name</th>
-    <th>Github</th>
-    <th>Discord ID</th>
+    <th>Username</th>
+    <th>Taf</th>
+    <th>Discord#tag</th>
   </tr>
-
+    
 <tr>
     <td>1</td>
-    <td>Aquibe V<br>(Team Lead)</td>
-    <td><a href=https://github.com/aquibe>aquibe</a></td>
-    <td><a href=https://discordapp.com/users/837630620477423616/>aquibe#7565</a></td>
-  </tr>
-
-<tr>
-    <td>2</td>
-    <td>Shaheem PP</td>
-    <td><a href=https://github.com/the-codeholic>the-codeholic</a></td>
-    <td><a href=https://discordapp.com/users/704791676044050483/>Shaheem PP#8073</a></td>
-  </tr>
-
-<tr>
-    <td>3</td>
-    <td>Naswih Abdurahiman</td>
-    <td><a href=https://github.com/neewtn>neewtn</a></td>
-    <td><a href=https://discordapp.com/users/434640898605711360/>Naswih#2013</a></td>
+    <td>Kam3leoN<br>(Team Lead)</td>
+    <td><a href=[https://github.com/Kam3leoN](https://github.com/Kam3leoN)>Kam3leoN</a></td>
+    <td><a href=https://discordapp.com/users/91279640252907520/>Kam3leoN#1980</a></td>
   </tr>
   
   <tr>
-    <th colspan="4">Team ID: BFH/rechULibqwqj1WZ6i/2021</th>
+    <th colspan="4">Team ID : screenbOt - 952473145573511198 - copy@2022</th>
   </tr>
 </table>
