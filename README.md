@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=1000&color=0099FF85&vCenter=true&height=32&lines=Hey!+This+is+Kam3leoN+Repo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=3000&pause=1000&color=0099FF85&vCenter=true&height=32&lines=Hey!+This+is+Kam3leoN+Repo)](https://github.com/Kam3leoN)
 
 <img width="200" height="200" align="left" style="float: left; margin: 0 10px 0 0;" alt="ScreenBot" src="https://cdn.discordapp.com/attachments/611997398410985492/619904440513593344/ScreenBot.png">
 
